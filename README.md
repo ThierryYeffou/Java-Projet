@@ -1,2 +1,2 @@
 # Java-Projet
-Employee management application
+Employee management application back-end
